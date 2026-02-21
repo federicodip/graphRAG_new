@@ -1,0 +1,7 @@
+chromadb # Vector storage
+pytest
+boto3
+langchain
+neo4j
+neo4j flashtext
+ijson
